@@ -14,8 +14,14 @@ opencv ver:4.1.1
 numpy
 graphics
 
+# Accounts
+Google Gmail
+Google Cloud Platform
+Weather
 
 # Python Modules
 config.py - global vars.
 account_credentials.py
+arduino_com
+
 camera.py
